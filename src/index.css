@@ -1,0 +1,23 @@
+ body{
+    background-color: black;
+  color: rgb(229, 252, 252);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+button{
+    background: aqua;
+    height: 40px;
+    color: black;
+    margin-right: 20px;
+    width: 100px;
+}
+input{
+    height: 35px;
+    width: 200px;
+}
+div{
+    border: 2px solid aqua;
+    padding: 20px;
+} 
